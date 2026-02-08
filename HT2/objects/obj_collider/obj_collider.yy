@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_collider",
+  "eventList":[],
   "managed":true,
-  "name":"obj_title",
+  "name":"obj_collider",
   "overriddenProperties":[],
   "parent":{
     "name":"HT2",

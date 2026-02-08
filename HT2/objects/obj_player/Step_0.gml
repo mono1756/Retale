@@ -15,6 +15,17 @@ if(keyboard_check(vk_shift) or keyboard_check(ord("X"))){
 xspd = (right_key - left_key) * move_spd
 yspd = (down_key - up_key) * move_spd
 
+//collision
+
+if(place_meeting(x + xspd, y, obj_collider)){
+
+	xspd = 0
+}
+
+if(place_meeting(x, y + yspd, obj_collider)){
+
+	yspd = 0
+}
 x += xspd
 y += yspd
 

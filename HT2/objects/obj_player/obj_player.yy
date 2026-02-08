@@ -43,6 +43,9 @@
     "name":"spr_briewd",
     "path":"sprites/spr_briewd/spr_briewd.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_briewd",
+    "path":"sprites/spr_briewd/spr_briewd.yy",
+  },
   "visible":true,
 }
