@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":5,"path":"folders/Sprites.yy",},
+    {"name":"Brie","order":1,"path":"folders/Sprites/Brie.yy",},
+    {"name":"Title","order":2,"path":"folders/Sprites/Title.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_player","order":3,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_title","order":7,"path":"objects/obj_title/obj_title.yy",},
+    {"name":"rm_1","order":1,"path":"rooms/rm_1/rm_1.yy",},
+    {"name":"rm_title","order":6,"path":"rooms/rm_title/rm_title.yy",},
+    {"name":"spr_briewl","order":2,"path":"sprites/spr_briewl/spr_briewl.yy",},
+    {"name":"spr_briewr","order":3,"path":"sprites/spr_briewr/spr_briewr.yy",},
+    {"name":"spr_briewu","order":1,"path":"sprites/spr_briewu/spr_briewu.yy",},
+  ],
+}
