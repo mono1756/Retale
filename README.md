@@ -14,15 +14,80 @@
 
 ###
 
-<h2 align="center">Retale is still under development. All Releases are Beta and are not the final game.</h2>
 
+## ❓ Frequently Asked Questions (Q&A)
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<details>
+<summary><strong>💬 What is Retale?</strong></summary>
+
+Retale is a fan-made sequel to *Undertale* by Toby Fox.  
+It continues the journey by exploring what happens after the events of the original game and focuses on restoring the Underground.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎮 Do I need to play Undertale first?</strong></summary>
+
+It is highly recommended. Retale builds upon the story, characters, and world of *Undertale*, so playing the original game will give you the best experience.
+
+</details>
+
+---
+
+<details>
+<summary><strong>💻 What platforms will Retale be available on?</strong></summary>
+
+Currently, development is focused on PC. Additional platforms may be considered in the future.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📅 When will the full version release?</strong></summary>
+
+There is no confirmed release date yet. Development updates will be shared through our social platforms.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🤝 Can I help with development?</strong></summary>
+
+Possibly! If you're interested in contributing (art, music, coding, testing), keep an eye on announcements or reach out through our community channels.
+
+</details>
+
+---
+
+<details>
+<summary><strong>⚖️ How are project releases named?</strong></summary>
+
+<h1> Projects are called using a letter and 3 characters. </h1>
+<h3>The letters mean what type of release it is. </h3>
+
+<strong>A</strong> = Alpha (Unstable Version - Play at your own risk) <br>
+<strong>B</strong> = Beta (Pre-release with testing functions, may crash) <br>
+<strong>X</strong> = Backup (for developers only) <br>
+<strong>R</strong> = Release (Release of a part of a game.) <br>
+<strong>V</strong> = Full Release (Official Game Release) <br>
+<strong>H</strong> = Hotfix (urgent patches) <br>
+
+###
+
+<h1> The numbers mean what version it is</h1>
+
+1st Number = Major Update (Adds big new content)<br>
+2nd Number = Minor Update (Adds features or improvements)<br>
+3rd Number = Patch	Small (bug fixes and polish)<br>
+
+</details>
+
+
+
 <br>
 <br>
 
