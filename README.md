@@ -39,7 +39,7 @@ It is highly recommended. Retale builds upon the story, characters, and world of
 <details>
 <summary><strong>💻 What platforms will Retale be available on?</strong></summary>
 
-Currently, development is focused on PC. Additional platforms may be considered in the future.
+Currently, development is focused on PC and macOS. We later want to port it to other platforms like Linux (Ubuntu), Android, iOS (Sideloading) and maybe into HTML5 in after 2050
 
 </details>
 
@@ -48,7 +48,7 @@ Currently, development is focused on PC. Additional platforms may be considered 
 <details>
 <summary><strong>📅 When will the full version release?</strong></summary>
 
-There is no confirmed release date yet. Development updates will be shared through our social platforms.
+There is no confirmed release date yet. The Game will use a chapter system like in Deltarune, and we want to release Chapter 1 of the game by 2029. 
 
 </details>
 
